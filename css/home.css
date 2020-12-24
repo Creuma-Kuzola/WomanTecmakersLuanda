@@ -1,0 +1,10 @@
+#headerC {
+    background-image: url('../img/iwd19.jpg.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+.carousel-item img{
+    height: 500px;
+}
